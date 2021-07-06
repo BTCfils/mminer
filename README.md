@@ -260,6 +260,7 @@ Always send NFT to SLP NFT compatible wallets (e.g. Electron Cash wallet SLP edi
 
 #### FILS mineable tokens environment
 
+```
 WIF=""
 BCHD_GRPC_URL=""
 BCHD_GRPC_CERT=""
@@ -272,6 +273,7 @@ TOKEN_START_BLOCK_V1=678724
 TOKEN_ID_V1="a7af0ffe54a50b7777a27d7ad3c9d077f710a3bec89a6b5eb4425023a546d5b0"
 USE_FASTMINE="yes"
 
+```
 
 
 --------------------------------------------------------------------------------------
