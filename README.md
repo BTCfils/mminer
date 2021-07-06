@@ -254,6 +254,25 @@ Always send NFT to SLP NFT compatible wallets (e.g. Electron Cash wallet SLP edi
 --------------------------------------------------------------------------------------
 
 #### If you need any help, ask in Maze SLP Token [Group](https://t.me/mazeslptoken)
+#### If you need any help mining FILS SLP Token ( Telegram: https://t.me/joinchat/SpN9o91pSKOgWAG_ )
+
+--------------------------------------------------------------------------------------
+
+#### FILS mineable tokens environment
+
+WIF=""
+BCHD_GRPC_URL=""
+BCHD_GRPC_CERT=""
+MINER_COVENANT_V1="5779820128947f777601207f75597982012c947f757601687f777678827758947f7576538b7f77765c7982777f011179011179ad011179828c7f756079a8011279bb011479815e7981788c88765b79968b0114795e795279965480880400000000011579bc7e0112790117797eaa765f797f757681008854011a797e56797e170000000000000000396a04534c50000101044d494e54200113797e030102087e54797e0c22020000000000001976a914011879a97e0288ac7e0b220200000000000017a9145379a97e01877e527952797e787eaa607988587901127993b175516b6d6d6d6d6d6d6d6d6d6d6d6d6d6d6d6c"
+TOKEN_INIT_REWARD_V1=600000000
+TOKEN_HALVING_INTERVAL_V1=4320
+MINER_DIFFICULTY_V1=3
+MINER_UTF8=""
+TOKEN_START_BLOCK_V1=678724
+TOKEN_ID_V1="a7af0ffe54a50b7777a27d7ad3c9d077f710a3bec89a6b5eb4425023a546d5b0"
+USE_FASTMINE="yes"
+
+
 
 --------------------------------------------------------------------------------------
 
@@ -407,5 +426,5 @@ USE_FASTMINE="yes"
 ```
 
 --------------------------------------------------------------------------------------------
-
+Special thanks to MAZE token creator B_S_Z
 
